@@ -60,8 +60,7 @@ const brijesh = {
   role        : "Full Stack Web Developer",
   stack       : ["MongoDB", "Express.js", "React.js", "Node.js"],
   currentFocus: ["DevOps Pipelines", "MLOps", "AI-integrated Web Apps"],
-  openTo      : "Full Stack / Web Dev Internships",
-  funFact     : "I built a real-time quiz app that handles 50+ concurrent users with <100ms latency 🎯"
+  openTo      : "Full Stack / Web Dev Internships"
 };
 ```
 
