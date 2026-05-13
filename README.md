@@ -326,8 +326,6 @@ const brijesh = {
 
 </div>
 
-> 💡 **Setup the snake:** Add a GitHub Actions workflow in `.github/workflows/snake.yml` — [follow this guide](https://github.com/Platane/snk)
-
 <!-- ▓▓▓  FOOTER WAVE  ▓▓▓ -->
 <br/>
 
