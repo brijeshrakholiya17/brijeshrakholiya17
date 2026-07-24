@@ -221,69 +221,179 @@ const brijesh = {
 </div>
 
 <!-- ▓▓▓  ANIMATED DIVIDER  ▓▓▓ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
 
 <!-- ▓▓▓  FEATURED PROJECTS  ▓▓▓ -->
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
----
 
-### 🌍 WanderStay — Global Home-Sharing & Rental Platform
+<h3>🌍 WanderStay — Global Home-Sharing Platform</h3>
 
 <div align="center">
-<a href="https://wanderstay-project-jcnv.onrender.com" target="_blank">
-  <img src="./Wanderlust.jpg" width="78%" alt="WanderStay Project Screenshot" style="border-radius: 10px;"/>
-</a>
+  <a href="https://wanderstay-project-jcnv.onrender.com" target="_blank">
+    <img src="./Wanderlust.jpg" width="78%" alt="WanderStay Project Screenshot" style="border-radius: 10px;"/>
+  </a>
 </div>
 
 <br/>
 
-> An Airbnb-inspired rental platform — built end-to-end on the **MERN stack**
+<blockquote>
+  <p>A production-ready full-stack rental marketplace powered by scalable Node.js and Express.js RESTful APIs[cite: 5].</p>
+</blockquote>
 
-| 🔑 Highlights | |
-|---|---|
-| 🗂️ **Stack** | MongoDB · Express.js · React.js · Node.js · Tailwind CSS · Bootstrap |
-| 👥 **Scale** | Handles **100+ simulated users** with property search, booking & auth |
-| ⚡ **Performance** | RESTful APIs with MongoDB indexing cut response time by **40%** |
-| 🔐 **Auth** | Secure authentication system integrated |
+<table>
+  <thead>
+    <tr>
+      <th>🔑 Highlights</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🗂️ <strong>Stack</strong></td>
+      <td>Node.js · Express.js · MongoDB Atlas · EJS · Docker · Docker Compose[cite: 5]</td>
+    </tr>
+    <tr>
+      <td>🐳 <strong>DevOps</strong></td>
+      <td>Containerized architecture utilizing Docker and Docker Compose with custom network bridging and volume mounting[cite: 5]</td>
+    </tr>
+    <tr>
+      <td>🤖 <strong>AI &amp; Maps</strong></td>
+      <td>Integrated Gemini AI for intelligent property price recommendations &amp; OpenStreetMap geocoding with MapLibre GL[cite: 5]</td>
+    </tr>
+    <tr>
+      <td>🔐 <strong>Auth/Assets</strong></td>
+      <td>Role-based authentication via Passport.js &amp; Cloudinary/Multer for secure image management[cite: 5]</td>
+    </tr>
+  </tbody>
+</table>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://wanderstay-project-jcnv.onrender.com)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/brijeshrakholiya17)
+<p>
+  <a href="https://wanderstay-project-jcnv.onrender.com">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/brijeshrakholiya17">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+  </a>
+</p>
 
----
+<hr/>
 
-### 🤖 AI-Powered Resume Builder — HireReady
+<h3>🎥 OmniMeet — Real-Time Video Conferencing Platform</h3>
 
 <div align="center">
-<a href="https://github.com/brijeshrakholiya17/ai-resume-builder-project" target="_blank">
-  <img src="./AiResumeBuilder3.png" width="78%" alt="AI Resume Builder Screenshot" style="border-radius: 10px;"/>
-</a>
+  <a href="https://github.com/brijeshrakholiya17" target="_blank">
+    <img src="./OmniMeet1.jpg" width="78%" alt="OmniMeet Screenshot" style="border-radius: 10px;"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/brijeshrakholiya17" target="_blank">
+    <img src="./OmniMeet2.jpg" width="78%" alt="OmniMeet Screenshot" style="border-radius: 10px;"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/brijeshrakholiya17" target="_blank">
+    <img src="./OmniMeet3.jpg" width="78%" alt="OmniMeet Screenshot" style="border-radius: 10px;"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/brijeshrakholiya17" target="_blank">
+    <img src="./OmniMeet4.jpg" width="78%" alt="OmniMeet Screenshot" style="border-radius: 10px;"/>
+  </a>
 </div>
 
 <br/>
 
-> AI-integrated resume builder that auto-generates content, scores ATS compatibility, and exports to PDF
+<blockquote>
+  <p>A production-grade video conferencing platform using WebRTC peer-to-peer architecture[cite: 5].</p>
+</blockquote>
 
-| 🔑 Highlights | |
-|---|---|
-| 🗂️ **Stack** | MERN · Gemini API · Clerk Auth · Strapi CMS |
-| 🤖 **AI** | Gemini API generates resume content — saves **70% manual effort** |
-| 🔐 **Auth** | Clerk authentication + form validation (min. 2 projects & 2 experiences) |
-| 📄 **Export** | PDF export with ATS score tracking |
+<table>
+  <thead>
+    <tr>
+      <th>🔑 Highlights</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🗂️ <strong>Stack</strong></td>
+      <td>React.js · Vite · Material UI · WebRTC · Socket.io · Node.js · MongoDB[cite: 5]</td>
+    </tr>
+    <tr>
+      <td>⚡ <strong>Real-Time</strong></td>
+      <td>Scalable frontend-backend integration with Socket.io powered real-time communication[cite: 5]</td>
+    </tr>
+    <tr>
+      <td>🔐 <strong>Security</strong></td>
+      <td>Secure JWT authentication, Bcrypt encryption, and secure lobby mode[cite: 5]</td>
+    </tr>
+    <tr>
+      <td>🖥️ <strong>Features</strong></td>
+      <td>Screen sharing, real-time messaging, and MongoDB meeting history tracking[cite: 5]</td>
+    </tr>
+  </tbody>
+</table>
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/brijeshrakholiya17/ai-resume-builder-project)
+<p>
+  <a href="https://github.com/brijeshrakholiya17">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+  </a>
+</p>
 
----
+<hr/>
 
-### 🎮 QuizFight — Real-Time Multiplayer Quiz Platform
+<h3>🏦 NeoBank — Production-Grade Bank Management System</h3>
 
-> High-performance real-time quiz battle app built with **Socket.IO**
+<div align="center">
+  <a href="https://github.com/brijeshrakholiya17" target="_blank">
+    <img src="./NeoBank1.jpg" width="78%" alt="NeoBank Screenshot" style="border-radius: 10px;"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/brijeshrakholiya17" target="_blank">
+    <img src="./NeoBank2.jpg" width="78%" alt="NeoBank Screenshot" style="border-radius: 10px;"/>
+  </a>
+</div>
 
-| 🔑 Highlights | |
-|---|---|
-| 🗂️ **Stack** | Node.js · Express.js · Socket.IO · WebSockets |
-| 👥 **Scale** | Supports **50+ concurrent users** with live leaderboards |
-| ⚡ **Latency** | WebSocket architecture ensuring **< 100ms** for seamless gameplay |
+<br/>
+
+<blockquote>
+  <p>Secure banking application using Python and Object-Oriented Programming (OOP)[cite: 5].</p>
+</blockquote>
+
+<table>
+  <thead>
+    <tr>
+      <th>🔑 Highlights</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🗂️ <strong>Stack</strong></td>
+      <td>Python 3.10+ · Tkinter · JSON · hashlib · hmac · unittest[cite: 5]</td>
+    </tr>
+    <tr>
+      <td>🏗️ <strong>Architecture</strong></td>
+      <td>Built with modular Clean Architecture and JSON persistence[cite: 5]</td>
+    </tr>
+    <tr>
+      <td>🔐 <strong>Security</strong></td>
+      <td>Implemented secure authentication, account management, and audit logging[cite: 5]</td>
+    </tr>
+    <tr>
+      <td>🧪 <strong>Reliability</strong></td>
+      <td>Custom exception handling and automated unit testing[cite: 5]</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>
+  <a href="https://github.com/brijeshrakholiya17">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+  </a>
+</p>
 
 <!-- ▓▓▓  ANIMATED DIVIDER  ▓▓▓ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -302,15 +412,6 @@ const brijesh = {
 
 <!-- ▓▓▓  ANIMATED DIVIDER  ▓▓▓ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ▓▓▓  CURRENTLY BUILDING  ▓▓▓ -->
-## 🔭 Currently Building
-
-```
-🐳  DevOps Pipelines     →  Docker · Kubernetes · Terraform
-⚙️  CI/CD Automation     →  GitHub Actions
-🤖  MLOps Infrastructure →  Productionising MERN + AI apps
-```
 
 <!-- ▓▓▓  CONTRIBUTION SNAKE  ▓▓▓ -->
 ## 🐍 Contribution Activity
