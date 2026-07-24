@@ -230,8 +230,27 @@ const brijesh = {
 <h3>🌍 WanderStay — Global Home-Sharing Platform</h3>
 
 <div align="center">
+  <h2 align="center">Home Page</h2>
   <a href="https://wanderstay-project-jcnv.onrender.com" target="_blank">
-    <img src="./Wanderlust.jpg" width="78%" alt="WanderStay Project Screenshot" style="border-radius: 10px;"/>
+    <img src="./wanderlust1.png" width="78%" alt="WanderStay Project Screenshot" style="border-radius: 10px;"/>
+  </a>
+</div>
+<div align="center">
+  <h2 align="center">Listing Page</h2>
+  <a href="https://wanderstay-project-jcnv.onrender.com" target="_blank">
+    <img src="./wanderlust3.png" width="78%" alt="WanderStay Project Screenshot" style="border-radius: 10px;"/>
+  </a>
+</div>
+<div align="center">
+  <h2 align="center">Geospatial Map Integration</h2>
+  <a href="https://wanderstay-project-jcnv.onrender.com" target="_blank">
+    <img src="./wanderlust2.png" width="78%" alt="WanderStay Project Screenshot" style="border-radius: 10px;"/>
+  </a>
+</div>
+<div align="center">
+  <h2 align="center">Ai Smart Pricing Suggestion Engine</h2>
+  <a href="https://wanderstay-project-jcnv.onrender.com" target="_blank">
+    <img src="./wanderlust4.png" width="78%" alt="WanderStay Project Screenshot" style="border-radius: 10px;"/>
   </a>
 </div>
 
@@ -281,12 +300,6 @@ const brijesh = {
 
 <h3>🎥 OmniMeet — Real-Time Video Conferencing Platform</h3>
 
-<div align="center">
-  <h2 align="center">Omnimeet Banner</h2>
-  <a href="https://github.com/brijeshrakholiya17/OmniMeet-Real-Time-Video-Conferencing" target="_blank">
-    <img src="./banner_magic.png" width="78%" alt="OmniMeet Screenshot" style="border-radius: 10px;"/>
-  </a>
-</div>
 <div align="center">
   <h2 align="center">Landing page</h2>
   <a href="https://github.com/brijeshrakholiya17/OmniMeet-Real-Time-Video-Conferencing" target="_blank">
