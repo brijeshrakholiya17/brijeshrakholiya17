@@ -272,7 +272,7 @@ const brijesh = {
   <a href="https://wanderstay-project-jcnv.onrender.com">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge" alt="Live Demo"/>
   </a>
-  <a href="https://github.com/brijeshrakholiya17">
+  <a href="https://github.com/brijeshrakholiya17/WanderStay-project">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
   </a>
 </p>
@@ -282,23 +282,33 @@ const brijesh = {
 <h3>🎥 OmniMeet — Real-Time Video Conferencing Platform</h3>
 
 <div align="center">
-  <a href="https://github.com/brijeshrakholiya17" target="_blank">
-    <img src="./OmniMeet1.jpg" width="78%" alt="OmniMeet Screenshot" style="border-radius: 10px;"/>
+  <h2 align="center">Omnimeet Banner</h2>
+  <a href="https://github.com/brijeshrakholiya17/OmniMeet-Real-Time-Video-Conferencing" target="_blank">
+    <img src="./banner_magic.png" width="78%" alt="OmniMeet Screenshot" style="border-radius: 10px;"/>
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/brijeshrakholiya17" target="_blank">
-    <img src="./OmniMeet2.jpg" width="78%" alt="OmniMeet Screenshot" style="border-radius: 10px;"/>
+  <h2 align="center">Landing page</h2>
+  <a href="https://github.com/brijeshrakholiya17/OmniMeet-Real-Time-Video-Conferencing" target="_blank">
+    <img src="./Landing page.png" width="78%" alt="OmniMeet Screenshot" style="border-radius: 10px;"/>
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/brijeshrakholiya17" target="_blank">
-    <img src="./OmniMeet3.jpg" width="78%" alt="OmniMeet Screenshot" style="border-radius: 10px;"/>
+  <h2 align="center">Meeting window</h2>
+  <a href="https://github.com/brijeshrakholiya17/OmniMeet-Real-Time-Video-Conferencing" target="_blank">
+    <img src="./Omnimeet3.png" width="78%" alt="OmniMeet Screenshot" style="border-radius: 10px;"/>
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/brijeshrakholiya17" target="_blank">
-    <img src="./OmniMeet4.jpg" width="78%" alt="OmniMeet Screenshot" style="border-radius: 10px;"/>
+  <h2 align="center">Realtime Collaborative-Whiteboard</h2>
+  <a href="https://github.com/brijeshrakholiya17/OmniMeet-Real-Time-Video-Conferencing" target="_blank">
+    <img src="./Omnimeet4.png" width="78%" alt="OmniMeet Screenshot" style="border-radius: 10px;"/>
+  </a>
+</div>
+<div align="center">
+  <h2 align="center">History Page</h2>
+  <a href="https://github.com/brijeshrakholiya17/OmniMeet-Real-Time-Video-Conferencing" target="_blank">
+    <img src="./History.jpeg" width="78%" alt="OmniMeet Screenshot" style="border-radius: 10px;"/>
   </a>
 </div>
 
@@ -336,7 +346,10 @@ const brijesh = {
 </table>
 
 <p>
-  <a href="https://github.com/brijeshrakholiya17">
+  <a href="https://omnimeet-app.onrender.com/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/brijeshrakholiya17/OmniMeet-Real-Time-Video-Conferencing">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
   </a>
 </p>
@@ -346,13 +359,15 @@ const brijesh = {
 <h3>🏦 NeoBank — Production-Grade Bank Management System</h3>
 
 <div align="center">
-  <a href="https://github.com/brijeshrakholiya17" target="_blank">
-    <img src="./NeoBank1.jpg" width="78%" alt="NeoBank Screenshot" style="border-radius: 10px;"/>
+  <h2 align="center">Login and Account creation</h2>
+  <a href="https://github.com/brijeshrakholiya17/NeoBank-Production-Grade-Bank-Management-System" target="_blank">
+    <img src="./Login and Account creation.png" width="78%" alt="NeoBank Screenshot" style="border-radius: 10px;"/>
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/brijeshrakholiya17" target="_blank">
-    <img src="./NeoBank2.jpg" width="78%" alt="NeoBank Screenshot" style="border-radius: 10px;"/>
+  <h2 align="center">Bank Dashboard</h2>
+  <a href="https://github.com/brijeshrakholiya17/NeoBank-Production-Grade-Bank-Management-System" target="_blank">
+    <img src="./Bank Dashboard.png" width="78%" alt="NeoBank Screenshot" style="border-radius: 10px;"/>
   </a>
 </div>
 
@@ -390,7 +405,7 @@ const brijesh = {
 </table>
 
 <p>
-  <a href="https://github.com/brijeshrakholiya17">
+  <a href="https://github.com/brijeshrakholiya17/NeoBank-Production-Grade-Bank-Management-System">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
   </a>
 </p>
