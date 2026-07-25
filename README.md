@@ -18,16 +18,17 @@
 
 ### 👋 Hey there, I'm Brijesh!
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7C3AED&width=480&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+%7C+REST+APIs+%7C+Socket.IO;AI+Integration+%7C+Gemini+API;Building+Scalable+%26+Real-time+Apps;Open+to+Internship+Opportunities+%F0%9F%8C%9F" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7C3AED&width=480&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+%7C+REST+APIs+%7C+Socket.IO;AI+Integration+%7C+Gemini+API;Building+Scalable+%26+Real-time+Apps;Open+to+Internship+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7C3AED&width=480&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Docker+%7C+WebRTC;AI+Integration+%7C+Gemini+API;Building+Scalable+%26+Real-time+Apps;Open+to+SDE+%26+Web+Dev+Roles+%F0%9F%8C%9F" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7C3AED&width=480&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Docker+%7C+WebRTC;AI+Integration+%7C+Gemini+API;Building+Scalable+%26+Real-time+Apps;Open+to+SDE+%26+Web+Dev+Roles+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
 <br/>
 
-🎓 &nbsp;**Computer Engineering** @ LDRP Institute of Technology, Gandhinagar *(CGPA: 8.16)*  
-🏗️ &nbsp;Built **3+ production-grade full-stack projects** with real users & live deployments  
+🎓 &nbsp;**Computer Engineering** @ LDRP Institute of Technology, Gandhinagar *(CGPA: 7.69/10)*  
+🏆 &nbsp;Solved **80+ algorithmic challenges** on LeetCode
+💼 &nbsp;Freelance Frontend Developer — Successfully delivered **Dornose Redesign** contract
+🏗️ &nbsp;Building **production-grade applications** with WebRTC, Socket.io, and Docker Compose
 🤖 &nbsp;Passionate about **AI-integrated web apps** using Gemini API  
-⚡ &nbsp;Currently exploring **DevOps** — Docker · Kubernetes · GitHub Actions  
 📬 &nbsp;Reach me at **brijeshrakholiya001@gmail.com**
 
 </div>
@@ -44,7 +45,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brijeshrakholiya17.github.io/Brijesh-Portfolio)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brijeshrakholiya001@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brijeshrakholiya17)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/progress)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=brijeshrakholiya17&color=7C3AED&style=for-the-badge&label=Profile+Views)
 
@@ -58,9 +59,10 @@
 ```javascript
 const brijesh = {
   role        : "Full Stack Web Developer",
-  stack       : ["MongoDB", "Express.js", "React.js", "Node.js"],
-  currentFocus: ["DevOps Pipelines", "MLOps", "AI-integrated Web Apps"],
-  openTo      : "Full Stack / Web Dev Internships"
+  coreStack   : ["MongoDB", "Express.js", "React.js", "Node.js"], // MERN Stack
+  currentlyLearning: ["TypeScript", "Next.js"],
+  passions    : ["Containerization (Docker)", "Real-Time Systems (WebRTC)", "AI Integrations"],
+  openTo      : "Full Stack / Software Engineering Roles"
 };
 ```
 
@@ -257,7 +259,7 @@ const brijesh = {
 <br/>
 
 <blockquote>
-  <p>A production-ready full-stack rental marketplace powered by scalable Node.js and Express.js RESTful APIs[cite: 5].</p>
+  <p>A production-ready full-stack rental marketplace powered by scalable Node.js and Express.js RESTful APIs.</p>
 </blockquote>
 
 <table>
@@ -270,19 +272,19 @@ const brijesh = {
   <tbody>
     <tr>
       <td>🗂️ <strong>Stack</strong></td>
-      <td>Node.js · Express.js · MongoDB Atlas · EJS · Docker · Docker Compose[cite: 5]</td>
+      <td>Node.js · Express.js · MongoDB Atlas · EJS · Docker · Docker Compose</td>
     </tr>
     <tr>
       <td>🐳 <strong>DevOps</strong></td>
-      <td>Containerized architecture utilizing Docker and Docker Compose with custom network bridging and volume mounting[cite: 5]</td>
+      <td>Containerized architecture utilizing Docker and Docker Compose with custom network bridging and volume mounting</td>
     </tr>
     <tr>
       <td>🤖 <strong>AI &amp; Maps</strong></td>
-      <td>Integrated Gemini AI for intelligent property price recommendations &amp; OpenStreetMap geocoding with MapLibre GL[cite: 5]</td>
+      <td>Integrated Gemini AI for intelligent property price recommendations &amp; OpenStreetMap geocoding with MapLibre GL</td>
     </tr>
     <tr>
       <td>🔐 <strong>Auth/Assets</strong></td>
-      <td>Role-based authentication via Passport.js &amp; Cloudinary/Multer for secure image management[cite: 5]</td>
+      <td>Role-based authentication via Passport.js &amp; Cloudinary/Multer for secure image management</td>
     </tr>
   </tbody>
 </table>
@@ -328,7 +330,7 @@ const brijesh = {
 <br/>
 
 <blockquote>
-  <p>A production-grade video conferencing platform using WebRTC peer-to-peer architecture[cite: 5].</p>
+  <p>A production-grade video conferencing platform using WebRTC peer-to-peer architecture.</p>
 </blockquote>
 
 <table>
@@ -341,19 +343,19 @@ const brijesh = {
   <tbody>
     <tr>
       <td>🗂️ <strong>Stack</strong></td>
-      <td>React.js · Vite · Material UI · WebRTC · Socket.io · Node.js · MongoDB[cite: 5]</td>
+      <td>React.js · Vite · Material UI · WebRTC · Socket.io · Node.js · MongoDB</td>
     </tr>
     <tr>
       <td>⚡ <strong>Real-Time</strong></td>
-      <td>Scalable frontend-backend integration with Socket.io powered real-time communication[cite: 5]</td>
+      <td>Scalable frontend-backend integration with Socket.io powered real-time communication</td>
     </tr>
     <tr>
       <td>🔐 <strong>Security</strong></td>
-      <td>Secure JWT authentication, Bcrypt encryption, and secure lobby mode[cite: 5]</td>
+      <td>Secure JWT authentication, Bcrypt encryption, and secure lobby mode</td>
     </tr>
     <tr>
       <td>🖥️ <strong>Features</strong></td>
-      <td>Screen sharing, real-time messaging, and MongoDB meeting history tracking[cite: 5]</td>
+      <td>Screen sharing, real-time messaging, and MongoDB meeting history tracking</td>
     </tr>
   </tbody>
 </table>
@@ -387,7 +389,7 @@ const brijesh = {
 <br/>
 
 <blockquote>
-  <p>Secure banking application using Python and Object-Oriented Programming (OOP)[cite: 5].</p>
+  <p>Secure banking application using Python and Object-Oriented Programming (OOP).</p>
 </blockquote>
 
 <table>
@@ -400,19 +402,19 @@ const brijesh = {
   <tbody>
     <tr>
       <td>🗂️ <strong>Stack</strong></td>
-      <td>Python 3.10+ · Tkinter · JSON · hashlib · hmac · unittest[cite: 5]</td>
+      <td>Python 3.10+ · Tkinter · JSON · hashlib · hmac · unittest</td>
     </tr>
     <tr>
       <td>🏗️ <strong>Architecture</strong></td>
-      <td>Built with modular Clean Architecture and JSON persistence[cite: 5]</td>
+      <td>Built with modular Clean Architecture and JSON persistence</td>
     </tr>
     <tr>
       <td>🔐 <strong>Security</strong></td>
-      <td>Implemented secure authentication, account management, and audit logging[cite: 5]</td>
+      <td>Implemented secure authentication, account management, and audit logging</td>
     </tr>
     <tr>
       <td>🧪 <strong>Reliability</strong></td>
-      <td>Custom exception handling and automated unit testing[cite: 5]</td>
+      <td>Custom exception handling and automated unit testing</td>
     </tr>
   </tbody>
 </table>
